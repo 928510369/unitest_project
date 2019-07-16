@@ -1,0 +1,6 @@
+
+ 2019-07-16 14:19:32,683 LogUtil --->LogUtil.py __init__ ---> 第 26 行 DEBUG : test 
+ 2019-07-16 14:19:58,749 LogUtil --->LogUtil.py __init__ ---> 第 26 行 DEBUG : test 
+ 2019-07-16 14:22:50,428 LogUtil --->LogUtil.py __init__ ---> 第 31 行 DEBUG : test 
+ 2019-07-16 14:23:09,896 LogUtil --->LogUtil.py __init__ ---> 第 32 行 DEBUG : test 
+ 2019-07-16 14:24:21,978 LogUtil --->LogUtil.py __init__ ---> 第 33 行 DEBUG : test 
